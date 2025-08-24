@@ -26,9 +26,5 @@ logs/
 *.tmp
 *.bak
 
-# Next.js build artifacts
-.next/
-out/
-
 # TypeScript build info
 *.tsbuildinfo
